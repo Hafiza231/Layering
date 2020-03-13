@@ -1,0 +1,11 @@
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayeringEntities\bin\Debug\codefirstlayeringEntities.dll.config
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayeringEntities\bin\Debug\codefirstlayeringEntities.dll
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayeringEntities\bin\Debug\codefirstlayeringEntities.pdb
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayeringEntities\bin\Debug\EntityFramework.dll
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayeringEntities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayeringEntities\bin\Debug\EntityFramework.xml
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayeringEntities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayeringEntities\obj\Debug\codefirstlayeringEntities.csproj.CoreCompileInputs.cache
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayeringEntities\obj\Debug\codefirstlayeringEntities.csproj.CopyComplete
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayeringEntities\obj\Debug\codefirstlayeringEntities.dll
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayeringEntities\obj\Debug\codefirstlayeringEntities.pdb

@@ -1,0 +1,15 @@
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\bin\Debug\codefirstlayering.BL.dll
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\bin\Debug\codefirstlayering.BL.pdb
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\bin\Debug\codefirstlayering.DL.dll
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\bin\Debug\codefirstlayeringEntities.dll
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\bin\Debug\EntityFramework.dll
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\bin\Debug\codefirstlayering.DL.pdb
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\bin\Debug\codefirstlayering.DL.dll.config
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\bin\Debug\codefirstlayeringEntities.pdb
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\bin\Debug\codefirstlayeringEntities.dll.config
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\bin\Debug\EntityFramework.xml
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\obj\Debug\codefirstlayering.BL.csprojAssemblyReference.cache
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\obj\Debug\codefirstlayering.BL.csproj.CoreCompileInputs.cache
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\obj\Debug\codefirstlayering.BL.csproj.CopyComplete
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\obj\Debug\codefirstlayering.BL.dll
+D:\Hafiza\Hafiza-CRUD\codefirstlayering\codefirstlayering.BL\obj\Debug\codefirstlayering.BL.pdb
